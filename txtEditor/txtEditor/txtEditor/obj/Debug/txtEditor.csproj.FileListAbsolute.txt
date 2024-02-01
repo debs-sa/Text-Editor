@@ -1,0 +1,41 @@
+C:\Users\silve\source\repos\txtEditor\txtEditor\bin\Debug\txtEditor.exe.config
+C:\Users\silve\source\repos\txtEditor\txtEditor\bin\Debug\txtEditor.exe
+C:\Users\silve\source\repos\txtEditor\txtEditor\bin\Debug\txtEditor.pdb
+C:\Users\silve\source\repos\txtEditor\txtEditor\obj\Debug\txtEditor.csproj.AssemblyReference.cache
+C:\Users\silve\source\repos\txtEditor\txtEditor\obj\Debug\txtEditor.Properties.Resources.resources
+C:\Users\silve\source\repos\txtEditor\txtEditor\obj\Debug\txtEditor.csproj.GenerateResource.cache
+C:\Users\silve\source\repos\txtEditor\txtEditor\obj\Debug\txtEditor.csproj.CoreCompileInputs.cache
+C:\Users\silve\source\repos\txtEditor\txtEditor\obj\Debug\txtEditor.exe
+C:\Users\silve\source\repos\txtEditor\txtEditor\obj\Debug\txtEditor.pdb
+C:\Users\silve\source\repos\txtEditor\txtEditor\obj\Debug\txtEditor.MainForm.resources
+C:\Users\silve\source\repos\txtEditor\txtEditor\obj\Debug\txtEditor.NewWindow.resources
+G:\My Drive\Canadá\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Assessments\LA\txtEditor\txtEditor\bin\Debug\txtEditor.exe.config
+G:\My Drive\Canadá\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Assessments\LA\txtEditor\txtEditor\bin\Debug\txtEditor.exe
+G:\My Drive\Canadá\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Assessments\LA\txtEditor\txtEditor\bin\Debug\txtEditor.pdb
+G:\My Drive\Canadá\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Assessments\LA\txtEditor\txtEditor\obj\Debug\txtEditor.csproj.AssemblyReference.cache
+G:\My Drive\Canadá\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Assessments\LA\txtEditor\txtEditor\obj\Debug\txtEditor.MainForm.resources
+G:\My Drive\Canadá\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Assessments\LA\txtEditor\txtEditor\obj\Debug\txtEditor.NewWindow.resources
+G:\My Drive\Canadá\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Assessments\LA\txtEditor\txtEditor\obj\Debug\txtEditor.Properties.Resources.resources
+G:\My Drive\Canadá\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Assessments\LA\txtEditor\txtEditor\obj\Debug\txtEditor.csproj.GenerateResource.cache
+G:\My Drive\Canadá\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Assessments\LA\txtEditor\txtEditor\obj\Debug\txtEditor.csproj.CoreCompileInputs.cache
+G:\My Drive\Canadá\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Assessments\LA\txtEditor\txtEditor\obj\Debug\txtEditor.exe
+G:\My Drive\Canadá\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Assessments\LA\txtEditor\txtEditor\obj\Debug\txtEditor.pdb
+C:\Users\rafam\Meu Drive\Canadá\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Assessments\LA\txtEditor\txtEditor\bin\Debug\txtEditor.exe.config
+C:\Users\rafam\Meu Drive\Canadá\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Assessments\LA\txtEditor\txtEditor\bin\Debug\txtEditor.exe
+C:\Users\rafam\Meu Drive\Canadá\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Assessments\LA\txtEditor\txtEditor\bin\Debug\txtEditor.pdb
+C:\Users\rafam\Meu Drive\Canadá\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Assessments\LA\txtEditor\txtEditor\obj\Debug\txtEditor.csproj.AssemblyReference.cache
+C:\Users\rafam\Meu Drive\Canadá\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Assessments\LA\txtEditor\txtEditor\obj\Debug\txtEditor.MainForm.resources
+C:\Users\rafam\Meu Drive\Canadá\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Assessments\LA\txtEditor\txtEditor\obj\Debug\txtEditor.NewWindow.resources
+C:\Users\rafam\Meu Drive\Canadá\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Assessments\LA\txtEditor\txtEditor\obj\Debug\txtEditor.Properties.Resources.resources
+C:\Users\rafam\Meu Drive\Canadá\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Assessments\LA\txtEditor\txtEditor\obj\Debug\txtEditor.csproj.GenerateResource.cache
+C:\Users\rafam\Meu Drive\Canadá\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Assessments\LA\txtEditor\txtEditor\obj\Debug\txtEditor.csproj.CoreCompileInputs.cache
+C:\Users\rafam\Meu Drive\Canadá\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Assessments\LA\txtEditor\txtEditor\obj\Debug\txtEditor.exe
+C:\Users\rafam\Meu Drive\Canadá\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Assessments\LA\txtEditor\txtEditor\obj\Debug\txtEditor.pdb
+C:\Users\debor\OneDrive\Desktop\Fall 2023\Rapid Application\txtEditor\txtEditor\txtEditor\obj\Debug\txtEditor.csproj.AssemblyReference.cache
+C:\Users\debor\OneDrive\Desktop\Fall 2023\Rapid Application\txtEditor\txtEditor\txtEditor\obj\Debug\txtEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\debor\OneDrive\Desktop\Fall 2023\Rapid Application\txtEditor\txtEditor\txtEditor\obj\Debug\txtEditor.exe
+C:\Users\debor\OneDrive\Desktop\Fall 2023\Rapid Application\txtEditor\txtEditor\txtEditor\obj\Debug\txtEditor.pdb
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\Rapid Application\txtEditor\txtEditor\txtEditor\obj\Debug\txtEditor.csproj.AssemblyReference.cache
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\Rapid Application\txtEditor\txtEditor\txtEditor\obj\Debug\txtEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\Rapid Application\txtEditor\txtEditor\txtEditor\obj\Debug\txtEditor.exe
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\Rapid Application\txtEditor\txtEditor\txtEditor\obj\Debug\txtEditor.pdb
